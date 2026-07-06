@@ -146,6 +146,4 @@ customer-churn-analysis-dashboard/
 
 **Lakshita Nair**
 
-Computer Science Engineering (AI & ML)
 
-Passionate about Data Analytics, Business Intelligence, SQL, and Power BI.
