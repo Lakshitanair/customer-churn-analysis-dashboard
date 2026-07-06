@@ -127,9 +127,8 @@ customer-churn-analysis-dashboard/
 
 ## 📸 Dashboard Preview
 
-> Add your dashboard screenshot below.
 
-![Dashboard](screenshots/Dashboard.png)
+![Dashboard](Screenshots/Dashboard.png)
 
 ---
 
